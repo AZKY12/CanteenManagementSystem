@@ -14,7 +14,6 @@ The **Canteen Management System** is a comprehensive desktop application develop
 - [Setup Instructions](#setup-instructions)
 - [Code Examples](#code-examples)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ## Features
 
@@ -203,8 +202,6 @@ private void AddCustomer()
 - **Mobile/Web Extension**: Develop a web or mobile interface to access the application remotely.
 - **Enhanced UI**: Improve user interface with modern components and styling.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
