@@ -126,7 +126,7 @@ Displays summary metrics such as total food items, customer count, and order cou
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/CanteenManagementSystem.git
+   git clone https://github.com/AZKY12/CanteenManagementSystem.git
    cd CanteenManagementSystem
    ```
 
